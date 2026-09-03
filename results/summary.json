@@ -1,0 +1,36 @@
+{
+  "dataset_shape": [
+    731,
+    16
+  ],
+  "target_skewness": -0.04735278011900183,
+  "pca_n_components": 11,
+  "pca_cumulative_variance": 0.8561314512624806,
+  "optimal_k": 2,
+  "best_model": "Random Forest",
+  "best_metrics_test": {
+    "RMSE": 679.6694809568344,
+    "MAE": 441.6842517006803,
+    "R2": 0.8847969665694795,
+    "MAPE": 1.4599940463333871
+  },
+  "best_params": {
+    "model__max_depth": null,
+    "model__min_samples_split": 2,
+    "model__n_estimators": 400
+  },
+  "top5_features": [
+    "num__temp",
+    "ord__yr",
+    "num__atemp",
+    "num__hum",
+    "nom__season_4"
+  ],
+  "top5_correlations": [
+    "atemp",
+    "temp",
+    "yr",
+    "season",
+    "weathersit"
+  ]
+}

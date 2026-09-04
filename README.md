@@ -46,13 +46,13 @@ python tools/execute_notebook.py Oscar_Aguilera_ML1_Examen.ipynb
 
 ## Video
 
-**Enlace:** `PEGAR_AQUI_EL_ENLACE_PUBLICO_O_NO_LISTADO_DEL_VIDEO`
+**Enlace:** `https://drive.google.com/file/d/1TodfJpIgM4tfLx2xS-JRc5XWP6Mo8Ze4/view?usp=drive_link`
 
-Antes de entregar, verificar el enlace en una ventana incógnito. El guion completo está en `VIDEO_SCRIPT.md` y dura aproximadamente 7 minutos 20 segundos.
+El guion completo está en `VIDEO_SCRIPT.md` y dura 8 minutos exactos.
 
 ## Declaración de uso de IA generativa
 
-Se utilizó ChatGPT (OpenAI) como apoyo para estructurar el notebook, revisar código, mejorar redacción y verificar la cobertura de la rúbrica. Oscar Aguilera revisó la lógica, ejecutó el análisis y es responsable de comprender, validar y presentar las decisiones y resultados. No se incorporó material ajeno sin referencia.
+Se utilizó ChatGPT (OpenAI) como apoyo para estructurar el notebook, revisar código, mejorar redacción y verificar la cobertura de la rúbrica. Yo Oscar Aguilera revisé la lógica, ejecuté el análisis y soy el responsable de comprender, validar y presentar las decisiones y resultados. No se incorporó material ajeno sin referencia.
 
 ## Referencias
 
